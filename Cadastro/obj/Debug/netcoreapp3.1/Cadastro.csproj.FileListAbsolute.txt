@@ -1,0 +1,13 @@
+C:\Users\Jessy\Documents\VisualCode\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\Users\Jessy\Documents\VisualCode\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\Users\Jessy\Documents\VisualCode\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\Users\Jessy\Documents\VisualCode\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\Users\Jessy\Documents\VisualCode\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\Jessy\Documents\VisualCode\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csprojAssemblyReference.cache
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\Jessy\Documents\VisualCode\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
